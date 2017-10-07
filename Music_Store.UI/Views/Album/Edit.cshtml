@@ -1,0 +1,104 @@
+﻿@model IEnumerable<Music_Store.Application.ViewModels.AlbumViewModel>
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Editar Album</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @*@(ViewContext.ClientValidationEnabled = false)*@
+
+    <div class="form-horizontal">
+        <h4>@Model.First().Title</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.First().Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.First().Title, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.First().Title, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.First().Title, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        @{
+
+            // Buscando a lista de Artistas
+            var artist = new Music_Store.Service.Controllers.ArtistsController();
+            var listartist = artist.Get();
+
+            // Buscando o Artista do album
+            var selectedartist = listartist.FirstOrDefault(a => a.Id == Model.First().Artist.Id);
+
+            // Removendo o Artista do album da lista para depois adicionalo em primeiro
+            listartist.Remove(selectedartist);
+
+            // Adicionando o Artista do album na lista em primeiro para que o mesmo apareceça primeiro no dropdown
+            listartist.Insert(0,selectedartist);
+
+            // Buscando a lista de Generos
+            var genre = new Music_Store.Service.Controllers.GenresController();
+            var listgenre = genre.Get();
+
+            // Buscando o Genero do album
+            var selectedgenre = listgenre.FirstOrDefault(g => g.Id == Model.First().Genre.Id);
+
+            // Removendo o Genero do album da lista para depois adicionalo em primeiro
+            listgenre.Remove(selectedgenre);
+
+            // Adicionando o Genero do album na lista em primeiro para que o mesmo apareceça primeiro no dropdown
+            listgenre.Insert(0,selectedgenre);
+        }
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.First().Artist, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-3">
+                @Html.DropDownListFor(model => model.First().Artist.Id, new SelectList(listartist, "ID", "Name") as SelectList,
+                    htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.First().Artist.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.First().Genre, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-3">
+                @Html.DropDownListFor(model => model.First().Genre.Id, new SelectList(listgenre, "ID", "Name") as SelectList,
+                    htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.First().Genre.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.First().Price, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.First().Price, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.First().Price, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.First().ArtAlbumUrl, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.First().ArtAlbumUrl, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.First().ArtAlbumUrl, "", new { @class = "text-danger" })
+            </div>
+        </div>        
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Atualizar" class="btn btn-success" />
+                @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+    </div>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+}

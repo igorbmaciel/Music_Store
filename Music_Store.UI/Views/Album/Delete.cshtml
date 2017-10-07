@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Music_Store.Application.ViewModels.AlbumViewModel>
+
+@{
+    ViewBag.Title = "Excluir Album";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<h3>Você tem certeza que deseja excluir este album?</h3>
+<div>
+    <h4>Dados do Album</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.First().Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.First().Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.First().Artist.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.First().Artist.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.First().Genre.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.First().Genre.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.First().Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.First().Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.First().ArtAlbumUrl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.First().ArtAlbumUrl)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Excluir" class="btn btn-danger" />
+            @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-default" })
+        </div>
+    }
+</div>

@@ -1,0 +1,9 @@
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\bin\Debug\Music_Store.Application.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\bin\Debug\Music_Store.Application.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\bin\Debug\AutoMapper.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\bin\Debug\Music_Store.Domain.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\bin\Debug\Music_Store.Domain.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\bin\Debug\AutoMapper.xml
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\obj\Debug\Music_Store.Application.csprojResolveAssemblyReference.cache
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\obj\Debug\Music_Store.Application.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Application\obj\Debug\Music_Store.Application.pdb

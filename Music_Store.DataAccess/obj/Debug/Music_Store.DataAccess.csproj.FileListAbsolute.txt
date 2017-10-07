@@ -1,0 +1,97 @@
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll.config
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.dll
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._001.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csproj.GenerateResource.Cache
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll.config
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.pdb
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._001.resources
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csproj.GenerateResource.Cache
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.xml
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll.config
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.pdb
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.xml
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._001.resources
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csproj.GenerateResource.Cache
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.pdb
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll.config
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.pdb
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.dll
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.dll
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.pdb
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.xml
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._001.resources
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.dll
+C:\Users\Igor\Desktop\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll.config
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.xml
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._001.resources
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csproj.GenerateResource.Cache
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._002.resources
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll.config
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Music_Store.Domain.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\Dapper.xml
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._001.resources
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._002.resources
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.csproj.GenerateResource.Cache
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.dll
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.pdb
+C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.DataAccess\obj\Debug\Music_Store.DataAccess.Migrations._003.resources
