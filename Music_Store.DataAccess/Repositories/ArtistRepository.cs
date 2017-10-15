@@ -18,6 +18,11 @@ namespace Music_Store.DataAccess.Repositories
             return Db.Set<Artist>().ToList();
         }
 
+        public List<Artist> SearchArtistById(int id)
+        {
+            return Db.Set<Artist>().Where(p => p.Id == id).ToList();
+        }
+
         public void CreateArtist(Artist artist)
         {
             Db.Set<Artist>().Add(artist);

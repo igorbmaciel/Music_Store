@@ -168,3 +168,34 @@ C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Cr
 C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\AutoMapper.xml
 C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\EntityFramework.xml
 C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Dapper.xml
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.CrossCutting_IoC.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.CrossCutting_IoC.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.Application.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.DataAccess.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.Domain.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\System.Web.Helpers.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\System.Web.Razor.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\System.Web.WebPages.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\AutoMapper.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\EntityFramework.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Dapper.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.Application.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.DataAccess.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.DataAccess.dll.config
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Music_Store.Domain.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\AutoMapper.xml
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\EntityFramework.xml
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\bin\Debug\Dapper.xml
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\obj\Debug\Music_Store.CrossCutting_IoC.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\obj\Debug\Music_Store.CrossCutting_IoC.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.CrossCutting_IoC\obj\Debug\Music_Store.CrossCutting_IoC.pdb

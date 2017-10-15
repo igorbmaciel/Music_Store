@@ -21,6 +21,11 @@ namespace Music_Store.Domain.Services
             return _repository.SearchArtist();
         }
 
+        public List<Artist> SearchArtistById(int id)
+        {
+            return _repository.SearchArtistById(id);
+        }
+
         public void CreateArtist(Artist artist)
         {
             _repository.CreateArtist(artist);

@@ -26,3 +26,8 @@ C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Do
 C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Domain\obj\Debug\Music_Store.Domain.csprojResolveAssemblyReference.cache
 C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Domain\obj\Debug\Music_Store.Domain.dll
 C:\Users\igor.maciel\Desktop\Music_Store(Igor_Maciel)\Music_Store\Music_Store.Domain\obj\Debug\Music_Store.Domain.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.Domain\bin\Debug\Music_Store.Domain.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.Domain\bin\Debug\Music_Store.Domain.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.Domain\obj\Debug\Music_Store.Domain.dll
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.Domain\obj\Debug\Music_Store.Domain.pdb
+C:\Users\Igor\Documents\Infnet\Bloco D\Aplicações WEB em .NET\Trabalhos\Music_Store\Music_Store.Domain\obj\Debug\Music_Store.Domain.csprojResolveAssemblyReference.cache

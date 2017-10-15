@@ -5,10 +5,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.Http;
 
 namespace Music_Store.Service.Controllers
 {
-    public class GenresController
+    public class GenresController : ApiController
     {
         private readonly IGenreService _service;
 
@@ -18,13 +19,13 @@ namespace Music_Store.Service.Controllers
             _service = new GenreService(_repository);
         }
 
-        // GET: api/Processos
+        // GET: api/Genres
         public List<Genre> Get()
         {
             return _service.SearchGenre();
         }
 
-        // GET: api/Processo/5
+        // GET: api/Genres/5
         public string Get(int id)
         {
             return "value";

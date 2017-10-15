@@ -9,6 +9,7 @@ namespace Music_Store.Domain.Services
     public interface IArtistService
     {
         List<Artist> SearchArtist();
+        List<Artist> SearchArtistById(int id);
         void CreateArtist(Artist artist);
         void AlterArtist(Artist artist);
         void DeleteArtist(int id);

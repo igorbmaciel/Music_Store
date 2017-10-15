@@ -308,10 +308,6 @@
       <Project>{277968cb-be50-4132-9d97-fef60faaafc5}</Project>
       <Name>Music_Store.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Music_Store.Service\Music_Store.Services.csproj">
-      <Project>{17982af4-cebc-45e9-8bef-26cd51331002}</Project>
-      <Name>Music_Store.Services</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

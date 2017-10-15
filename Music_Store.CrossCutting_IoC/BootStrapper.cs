@@ -27,9 +27,9 @@ namespace Music_Store.CrossCutting_IoC
 
             // Infra Dados
             container.Register<IAlbumRepository, AlbumRepository>();
-            //container.Register<MusicStoreContext>();
-
-            //container.Register(typeof (IRepository<>), typeof (Repository<>));
+            
+            
+            
         }
     }
 }
